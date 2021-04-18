@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LakshanFernando
+- 👋 Hi, I’m Lakshan Fernando
 - 👀 I’m interested in Angular, Node, Firebase and more and more
 - 🌱 I’m currently learning about everything
 - 💞️ I’m looking to collaborate with friendly peoples with awsome projects worldwide
