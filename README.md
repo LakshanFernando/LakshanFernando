@@ -39,3 +39,5 @@
 LakshanFernando/LakshanFernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://stackexchange.com/users/15568471/tharindu-lakshan"><img src="https://stackexchange.com/users/flair/15568471.png" width="208" height="58" alt="profile for Tharindu Lakshan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tharindu Lakshan on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
