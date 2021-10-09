@@ -43,3 +43,7 @@ You can click the Preview link to take a look at your changes.
 ## &#x1f4c8; StackOverFlow Stats
 
 <a href="https://stackexchange.com/users/15568471/tharindu-lakshan"><img src="https://stackexchange.com/users/flair/15568471.png" width="208" height="58" alt="profile for Tharindu Lakshan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tharindu Lakshan on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tharindu-lakshan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/tharindu-lakshan?trk=profile-badge">Tharindu Lakshan</a></div>
+              
