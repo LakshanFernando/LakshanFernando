@@ -2,7 +2,10 @@
 - 👀 I’m interested in Angular, Node, Firebase and more and more
 - 🌱 I’m currently learning about everything
 - 💞️ I’m looking to collaborate with friendly peoples with awsome projects worldwide
-- 📫 How to reach --> You can find me on LinkedIn and leave a message 
+- 📫 How to reach --> You can find me on LinkedIn and leave a message
+
+
+[![An image of @lakshanfernando's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshanfernando)](https://holopin.io/@lakshanfernando)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tharindu-lakshan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/tharindu-lakshan?trk=profile-badge">Tharindu Lakshan</a></div>
 
